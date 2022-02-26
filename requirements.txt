@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+conflict
+conflict
+conflict
+>>>>>>> branch1
 conflict1
 conflict11
 conflict1
